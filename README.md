@@ -1,5 +1,5 @@
 # Data_cleaning_task1_intern
-# Sales Data Cleaning & Preprocessing
+## Sales Data Cleaning & Preprocessing
 
 ## Objective
 Clean and preprocess a raw sales dataset to prepare it for analysis.
